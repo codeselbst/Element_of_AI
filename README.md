@@ -22,7 +22,7 @@ Users simply adds this alarm when browsing through news, Then users will recieve
 
 ## Data sources and AI methods
 This plugin alarm will automatically scrap articles with similar content within the past 7 days from the main public service broadcaster around the world. 
-
+<img src="https://github.com/codeselbst/Element_of_AI/issues/1#issue-774826112" width="300">
 ## Challenges
 
 Languages should be a big issue here as the alarm will collect data from main websites and compare the similarity between them; however, during translation the result may lightly differ from the original. In other words, if the "fact" is already changed during data analysis then the purpose to use this plugin would be in vein. 

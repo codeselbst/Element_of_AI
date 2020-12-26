@@ -22,9 +22,9 @@ Users simply adds this alarm when browsing through news, Then users will recieve
 
 ## Data sources and AI methods
 This plugin alarm will automatically scrap articles with similar content within the past 7 days from the main public service broadcaster around the world. 
-
-|<img src="https://user-images.githubusercontent.com/74449345/103146299-96715200-478a-11eb-968e-6160ab10d58d.jpg" width="50">|Taiwan Public Television Service Foundation|
-|<img src="https://user-images.githubusercontent.com/74449345/103146301-97a27f00-478a-11eb-8e6f-09f1fdf2b82f.png" width="50">|Australian Broadcasting Corporation |
+* problem 1
+<img src="https://user-images.githubusercontent.com/74449345/103146299-96715200-478a-11eb-968e-6160ab10d58d.jpg" width="50">Taiwan Public Television Service Foundation
+<img src="https://user-images.githubusercontent.com/74449345/103146301-97a27f00-478a-11eb-8e6f-09f1fdf2b82f.png" width="50">Australian Broadcasting Corporation 
 <img src="https://user-images.githubusercontent.com/74449345/103146302-983b1580-478a-11eb-9fc2-6f98e7fe083a.png" width="50">
 <img src="https://user-images.githubusercontent.com/74449345/103146303-983b1580-478a-11eb-8ffa-7e1fe9e08a78.jpg" width="50">
 <img src="https://user-images.githubusercontent.com/74449345/103146304-98d3ac00-478a-11eb-90d5-c0452f368cbc.png" width="50">
